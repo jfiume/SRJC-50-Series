@@ -1,0 +1,13 @@
+h1 {
+    font-family: Arial;
+    color: #888;
+    font-size: 1.4em;
+}
+
+.p-font {
+    font-family: Arial;
+}
+
+#container {
+    width: 50%;
+}

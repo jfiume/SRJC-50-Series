@@ -1,0 +1,23 @@
+.text-center {
+    color: blue;
+}
+
+.body {
+    background-color: ivory;
+}
+
+#top-links {
+    color: green;
+}
+
+#interview {
+    color: orange;
+}
+
+.col-sm-4 {
+    font-style: italic;
+}
+
+.col-lg h3 {
+    font-style: oblique;
+}

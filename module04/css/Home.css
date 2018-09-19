@@ -1,0 +1,21 @@
+.nav {
+    background-color: black;
+    margin-bottom: 20px;
+}
+
+#home-text {
+    background-color: black;
+    color: #E43123;
+    border-radius: 25%;
+    padding: 30px;
+}
+
+
+body {
+    background-image: url("../assets/Tao.png");
+    /*
+    By Original uploader was <a href="https://cs.wikipedia.org/wiki/User:Pindick" class="extiw" title="cs:User:Pindick">Pindick</a> at <a class="external text" href="http://cs.wikipedia.org">cs.wikipedia</a> - Transferred from <a class="external text" href="http://cs.wikipedia.org">cs.wikipedia</a>; transferred to Commons by <a href="//commons.wikimedia.org/wiki/User:Sevela.p" title="User:Sevela.p">User:Sevela.p</a> using <a rel="nofollow" class="external text" href="http://tools.wikimedia.de/~magnus/commonshelper.php">CommonsHelper</a>., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=6312702">Link</a>
+    */
+    background-repeat: no-repeat;
+    background-size: cover;
+}

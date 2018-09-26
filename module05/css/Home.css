@@ -1,0 +1,29 @@
+.nav {
+    background-color: #E43123;
+    margin-bottom: 20px;
+}
+
+.nav a {
+    color: #F1AE3E;
+}
+
+#home-text {
+    background-color: black;
+    color: #E43123;
+    border-radius: 25%;
+    padding: 30px;
+}
+
+#catalog-button {
+    color: #E43123;
+    background-color: #F1AE3E;
+}
+
+body {
+    background-image: url("../assets/JKD_emblem.png");
+    /*
+    By RisingSunWiki - Own work. Transferred from en.wikipedia to Commons by FunkMonk using CommonsHelper.(Original text: edited version of http://en.wikipedia.org/wiki/Image:JKD.svg), Public Domain, https://commons.wikimedia.org/w/index.php?curid=8945294
+    */
+    background-repeat: no-repeat;
+    background-size: cover;
+}

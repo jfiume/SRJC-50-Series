@@ -3,3 +3,6 @@
 
 # Ignore everything in the Homework folder
 /Homework
+
+# Hide all C++ code
+.cpp
